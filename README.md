@@ -26,3 +26,6 @@
 * 설정 이후 kibana 적재 확인
 
 ----
+
+# 실제 적재 된 kibana 화면
+![img.png](img.png)
